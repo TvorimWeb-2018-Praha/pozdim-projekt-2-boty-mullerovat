@@ -64,8 +64,10 @@ body {
 .popis {
 	padding-top: 30px;
 	padding-bottom: 30px;
-	border-bottom:  #06d7c1;
-	border-width: 2px;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color:#06d7c1;
+
 }
 
 .produkt {
